@@ -11,7 +11,7 @@ This is basic Chat App
   - 
 
 ##  Basic View
-![alt text](https://github.com/sahin88/Python_Socket_Tkinter_GUI/blob/master/gui.png)
+![alt text](https://github.com/sahin88/image_size_app/blob/main/image_size_gui.png)
 
 
 
@@ -19,7 +19,7 @@ This is basic Chat App
 First clone the repository from Github and switch to the new directory:
 ```
 $ git clone git@github.com/sahin88/image_size_app.git
-$ cd {{ project_name }}
+$ cd image_size_app
 ```
 Create the virtualenv for your project.
 ```
