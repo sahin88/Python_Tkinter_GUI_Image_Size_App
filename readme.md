@@ -18,8 +18,8 @@ This is basic Chat App
 ## Getting Started
 First clone the repository from Github and switch to the new directory:
 ```
-$ git clone git@github.com/sahin88/image_size_app.git
-$ cd image_size_app
+$ git clone git@github.com/sahin88/Python_Tkinter_GUI_Image_Size_App.git
+$ cd Python_Tkinter_GUI_Image_Size_App
 ```
 Create the virtualenv for your project.
 ```
